@@ -1,19 +1,26 @@
-# Python Task Tool
+# Python Task Tool (CLI App)
 
 ## English
 
 ### Overview
 
+A simple task management tool that allows you to add, complete, and persist tasks using a JSON file.
 This is a simple task management tool built with Python.
 
 It allows users to create, manage, and store tasks using a JSON file, making it a lightweight and practical productivity tool.
 
+## Example
+
+Add task: Study Python
+Task added!
+[ ] Study Python
+
 ### Features
 
-- Add tasks
+- Add new tasks
 - Mark tasks as completed
-- Save and load tasks using JSON
-- Simple and clean interface
+- Save tasks automatically using JSON
+- Load tasks on startup
 
 ### Use Case
 
