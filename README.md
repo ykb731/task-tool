@@ -47,11 +47,13 @@ This tool can be used for:
 
 ### How to Run
 
+```bash
 python main.py
+```
 
 ### Screenshot
 
-![alt text](image.png)
+![App Screenshot](image.png)
 
 ---
 
@@ -87,8 +89,10 @@ JSONファイルを使ってタスクを保存・管理できます。
 
 ### 実行方法
 
+```bash
 python main.py
+```
 
 ### スクリーンショット
 
-![alt text](image.png)
+![アプリ画面](image.png)
