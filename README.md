@@ -11,9 +11,14 @@ It allows users to create, manage, and store tasks using a JSON file, making it 
 
 ## Example
 
-Add task: Study Python
-Task added!
-[ ] Study Python
+1. Add task
+2. Show tasks
+3. Complete task
+
+> Add task: Study Python
+> Task added!
+
+- [ ] Study Python
 
 ### Features
 
@@ -42,7 +47,7 @@ This tool can be used for:
 
 ### How to Run
 
-    python main.py
+python main.py
 
 ### Screenshot
 
@@ -82,7 +87,7 @@ JSONファイルを使ってタスクを保存・管理できます。
 
 ### 実行方法
 
-    python main.py
+python main.py
 
 ### スクリーンショット
 
